@@ -1,5 +1,6 @@
 pyemotion:
-  image: psygrammer/pyemotion:0.1
+  image: psygrammer/pyemotion:0.2
+  mem_limit: 5g  
   ports:
     - "8888:8888"
   volumes:
