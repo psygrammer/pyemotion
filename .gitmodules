@@ -1,0 +1,3 @@
+[submodule "deepNLP/nlpia"]
+	path = deepNLP/nlpia
+	url = https://github.com/totalgood/nlpia.git
