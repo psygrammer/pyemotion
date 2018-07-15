@@ -1,3 +1,6 @@
 [submodule "deepNLP/nlpia"]
 	path = deepNLP/nlpia
 	url = https://github.com/totalgood/nlpia.git
+[submodule "psychopy/about_python_hello_world"]
+	path = psychopy/about_python_hello_world
+	url = https://github.com/psygrammer/about_python_hello_world.git
