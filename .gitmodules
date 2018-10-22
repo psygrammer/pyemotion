@@ -7,3 +7,6 @@
 [submodule "psychopy/PsychoPy-101"]
 	path = psychopy/PsychoPy-101
 	url = https://github.com/yoonlee78/PsychoPy-101.git
+[submodule "tspy/Practical-Time-Series-Analysis"]
+	path = tspy/Practical-Time-Series-Analysis
+	url = https://github.com/PacktPublishing/Practical-Time-Series-Analysis.git
